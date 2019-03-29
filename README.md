@@ -1,5 +1,7 @@
 # real-time-resonance-estimation
 Open-source software for estimating vocal tract resonances using broadband excitation at the lips
+[![DOI](https://zenodo.org/badge/doi/10.5281.svg)](http://dx.doi.org/10.5281/zenodo.2616871)
+
 
 This software is described in:
 
